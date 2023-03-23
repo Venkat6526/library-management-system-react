@@ -1,0 +1,187 @@
+/* first */
+.position img
+{
+    width: 1520px;
+    height: 400px;
+    position: relative;
+    
+}
+ .greenwich
+ {
+    font-weight: bold;
+    font-size: x-large;
+    text-decoration: underline 4px solid orange;
+    border: 1px solid whitesmoke;
+    width: 600px;
+    padding: 30px;
+    justify-content: center;
+    position: absolute;
+    z-index: 2;
+    top: 150px;
+    background-color: rgba(255, 255, 255, 0.753);
+ }
+
+ .para
+ {
+    background-color: rgb(238, 158, 8);
+    color: white;
+ }
+ .para p
+ {
+    width: 260px;
+    margin-left: 650px;
+    padding: 30px;
+    font-weight: bold;
+ }
+
+ .Blog
+ {
+    margin-left: 650px;
+    padding: 30px;
+    font-weight: bold;
+ }
+.lib h1
+{
+    font-size: x-large;
+    text-decoration: underline 4px solid orange;
+    width: 500px;
+    font-weight: 400; 
+    font-size: xx-large;  
+}
+.C img
+{
+    width: 1400px;
+    height: 400px;
+    position: relative;
+    left: 60px;
+}
+.Host
+{
+    position: absolute;
+    z-index: 2;
+    top: 900px;
+    left: 350px;
+    background-color: white;
+    height: 350px;
+    width: 800px;
+    box-shadow: 10px 10px 15px rgba(18, 3, 3, 0.568);
+}
+.jan
+{
+    padding: 10px;
+    margin-left: 35px;
+}
+.friends
+{
+    padding: 10px;
+    margin-left: 35px;
+    width: 700px;
+}
+.look a
+{
+    text-decoration: underline 2px rgb(209, 136, 3);
+    color: rgb(209, 136, 3);
+    padding: 10px;
+    margin-left: 35px;
+}
+
+/* second */
+
+.series h1
+{
+    font-size: x-large;
+    text-decoration: underline 4px solid orange;
+    width: 700px;
+    font-weight: 400; 
+    font-size: xx-large;
+    margin-left: 40px;  
+}
+.S img
+{
+    width: 1400px;
+    height: 400px;
+    position: relative;
+    left: 60px;
+    top: 300px;
+}
+.signature
+{
+    position: absolute;
+    z-index: 2;
+    top: 1600px;
+    left: 350px;
+    background-color: white;
+    height: 300px;
+    width: 800px;
+    box-shadow: 10px 10px 15px rgba(18, 3, 3, 0.568);
+}
+.feb
+{
+    padding: 10px;
+    margin-left: 35px;
+}
+.Thursday
+{
+    padding: 10px;
+    margin-left: 35px;
+    width: 700px;
+}
+.Take a
+{
+    text-decoration: underline 2px rgb(209, 136, 3);
+    color: rgb(209, 136, 3);
+    padding: 10px;
+    margin-left: 35px;
+}
+
+/* third */
+  
+.january h1
+{
+    font-size: x-large;
+    text-decoration: underline 4px solid orange;
+    width: 480px;
+    font-weight: 400; 
+    font-size: xx-large;
+    
+}
+.A img
+{
+    width: 1400px;
+    height: 400px;
+    position: relative;
+    left: 60px;
+    top: 550px;
+}
+.Erika
+{
+    position: absolute;
+    z-index: 2;
+    top: 2250px;
+    left: 350px;
+    background-color: white;
+    height: 300px;
+    width: 800px;
+    box-shadow: 10px 10px 15px rgba(18, 3, 3, 0.568);
+}
+.december
+{
+    padding: 10px;
+    margin-left: 35px;
+}
+.online
+{
+    padding: 10px;
+    margin-left: 35px;
+    width: 700px;
+}
+.took a
+{
+    text-decoration: underline 2px rgb(209, 136, 3);
+    color: rgb(209, 136, 3);
+    padding: 10px;
+    margin-left: 35px;
+}
+
+
+

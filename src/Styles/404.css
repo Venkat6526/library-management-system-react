@@ -1,0 +1,13 @@
+.pageNotFound img
+{
+    height: 730px;
+    position: relative;
+}
+.pageNotFound h1
+{
+  
+    position: absolute;
+    z-index: 2;
+    top: 280px;
+    left: 540px;
+}

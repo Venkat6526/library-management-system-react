@@ -1,0 +1,185 @@
+/* first */
+
+.userDash img
+{
+  height: 500px;
+  width: 1520px;
+  position: relative;
+}
+.tag
+{
+   border: 1px solid white;
+   width: 1200px;
+   height: 250px;
+   background-color: rgba(255, 255, 255, 0.769);
+   position: absolute;
+   z-index: 2;
+   top: 250px;
+}
+.Hoopla 
+{
+    margin-left:-480px;
+    text-decoration: underline 4px rgb(99, 206, 248);
+    font-size: xx-large;
+    
+}
+.wed
+{
+    width: 1000px ;
+    margin-left: 35px;
+    font-size: larger;
+}
+.Mark button
+{
+    background-color: rgb(8, 205, 245);
+    color: white;
+    padding: 10px;
+    border: none;
+    margin-left: 1024px;
+    margin-top: 25px;
+    transition: .5s;
+}
+.Mark span
+{
+    color: white;
+    padding: 10px;
+    width: 100px;
+}
+.Mark button:hover
+{
+    color: white;
+    background-color: rgb(49, 49, 232);
+}
+
+/* second */
+
+.lab
+{
+    border: 1px solid white;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.386);
+    height: 250px;
+    width: 1480px;
+    margin-left: 20px;
+    margin-top: 50px;
+
+}
+.learning 
+{
+    text-decoration: underline 4px  rgb(99, 206, 248);
+    font-size: xx-large;
+    margin-right: 1060px;
+}
+
+.technology
+{
+    width: 1000px;
+    padding: 20px;
+    font-size: larger;
+}
+
+/* third */
+
+.over img
+{
+    height: 400px;
+    width: 1400px;
+    margin-top: 80px;
+    margin-left: 60px;
+    position: relative;
+}
+.linkedin
+{
+    border: 1px solid white;
+    background-color: white;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.511);
+    height: 300px;
+    width: 850px;
+    margin-left: 350px;
+    position: absolute;
+    z-index: 2;
+    top: 1280px ;
+}
+
+.LEARN
+{
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.lynda
+{
+    margin-top: -20px;
+    margin-left:-400px;
+    text-decoration: underline 4px rgb(99, 206, 248);
+    font-size: x-large;
+}
+
+.intrests 
+{
+    width: 700px;
+    padding: 20px;
+}
+.started button
+{
+    background-color: rgb(8, 205, 245);
+    color: white;
+    padding: 7px;
+    border: none;
+    margin-left: 740px;
+    margin-top: -40px;
+    transition: .5s;
+    font-weight: bold;
+}
+.started button:hover
+{
+    color: white;
+    background-color: rgb(49, 49, 232);
+}
+
+/* fourth */
+
+.Nee
+{
+    margin-top: 300px;
+    margin-left: 10px;
+    position: relative;
+}
+.Help
+{
+    background-color: rgb(4, 182, 253);
+    border: 1px solid rgb(4, 182, 253);
+    color: white;
+    position: absolute;
+    z-index: 2;
+    top: 1740px;
+    margin-left: 10px;
+    width: 1500px;
+    height: 250px;
+    
+}
+.Help h1
+{
+    font-weight: 450;
+}
+.Help h4
+{
+    margin-left: 495px;
+    font-weight: 400;
+}
+
+.View button
+{
+    background-color: white;
+    color:black;
+    padding: 7px;
+    border: none;
+    margin-left: 680px;
+    margin-top: 30px;
+    transition: .5s;
+    font-weight: bold;
+}
+
+.View button:hover
+{
+    color: white;
+    background-color: rgba(212, 206, 206, 0.614);
+}
