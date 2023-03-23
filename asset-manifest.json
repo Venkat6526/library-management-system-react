@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/library-management-system-react/static/css/main.92bb12ea.css",
+    "main.js": "/library-management-system-react/static/js/main.c99c99fc.js",
+    "static/media/vec.jpg": "/library-management-system-react/static/media/vec.77735bc7f58b2095e6e0.jpg",
+    "index.html": "/library-management-system-react/index.html",
+    "main.92bb12ea.css.map": "/library-management-system-react/static/css/main.92bb12ea.css.map",
+    "main.c99c99fc.js.map": "/library-management-system-react/static/js/main.c99c99fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92bb12ea.css",
+    "static/js/main.c99c99fc.js"
+  ]
+}
